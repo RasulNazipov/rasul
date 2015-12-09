@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>СПИСОК ДЕЛ</title>
   <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
-  <link rel="stylesheet" href="tobo.css">
+  <link rel="stylesheet" href="Case.css">
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.js"></script>
   <script src="bower_components/angular/angular.js"></script>
   <script src="controllers.js"></script>
